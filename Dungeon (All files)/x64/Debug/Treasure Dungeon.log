@@ -1,0 +1,4 @@
+﻿  KMTiler.cpp
+C:\Users\Acer\Desktop\Porject Exhibiton\Treasure Dungeon\Treasure Dungeon\KMTiler.cpp(175,75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Acer\Desktop\Porject Exhibiton\Treasure Dungeon\Treasure Dungeon\KMTiler.cpp(211,76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Treasure Dungeon.vcxproj -> C:\Users\Acer\Desktop\Porject Exhibiton\Treasure Dungeon\Treasure Dungeon\x64\Debug\Treasure Dungeon.exe
