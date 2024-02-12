@@ -2,10 +2,10 @@
 <hr>
 Gameplay Video: I'll put it here later
 <br><br>
-Screenshots: <br>
+GIFs: <br>
 
 --Caves<br>
-<img src="https://github.com/Oziach/Platformer-Game-Project/blob/main/Images/CavesWJ.png?raw=true" alt="Level 4" width="600px"><br>
+<img src="https://github.com/Oziach/Platformer-Game-Project/blob/main/Images/Caves.gif?raw=true" alt="Level 4" width="600px"><br>
 
 --Crypt<br>
 <img src="https://github.com/Oziach/Platformer-Game-Project/blob/main/Images/Intro.PNG?raw=true" alt="Level 1" width="600px"><br>
